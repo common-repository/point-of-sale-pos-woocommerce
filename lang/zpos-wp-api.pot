@@ -1,0 +1,1512 @@
+# Copyright (C) 2024 BizSwoop a CPF Concepts, LLC Brand
+# This file is distributed under the same license as the Jovvie Point of Sale POS for WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Jovvie Point of Sale POS for WooCommerce 5.2.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/app\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-10-23T14:32:54+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: zpos-wp-api\n"
+
+#. Plugin Name of the plugin
+#: index.php
+msgid "Jovvie Point of Sale POS for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: index.php
+msgid "https://www.jovvie.com"
+msgstr ""
+
+#. Description of the plugin
+#: index.php
+msgid "A Point of Sale (POS) API plugin for the WooCommerce e-commerce toolkit. Sell anywhere."
+msgstr ""
+
+#. Author of the plugin
+#: index.php
+msgid "BizSwoop a CPF Concepts, LLC Brand"
+msgstr ""
+
+#. Author URI of the plugin
+#: index.php
+msgid "http://www.bizswoop.com"
+msgstr ""
+
+#: includes/Admin.php:77
+msgid "Point of Sale POS WooCommerce"
+msgstr ""
+
+#: includes/Admin.php:79
+msgid "A SSL certificate is not detected. The checkout may not be secure. Please ensure your server has a valid SSL Certificate."
+msgstr ""
+
+#: includes/Admin/Analytics.php:18
+#: src/analytics/index.js:13
+msgid "Payments"
+msgstr ""
+
+#: includes/Admin/Analytics.php:23
+#: includes/Admin/Tabs/Users.php:19
+#: src/analytics/index.js:18
+msgid "Users"
+msgstr ""
+
+#: includes/Admin/Analytics.php:28
+#: includes/Admin/Layout.php:50
+#: includes/Admin/Menu.php:46
+#: includes/Frontend.php:331
+#: src/analytics/index.js:23
+msgid "Stations"
+msgstr ""
+
+#: includes/Admin/Layout.php:28
+#: includes/Admin/Layout.php:33
+msgid "Jovvie POS"
+msgstr ""
+
+#: includes/Admin/Layout.php:37
+msgid "Sell Anywhere"
+msgstr ""
+
+#: includes/Admin/Layout.php:74
+#: includes/Admin/Setting.php:23
+#: includes/Frontend.php:325
+msgid "Settings"
+msgstr ""
+
+#: includes/Admin/Orders.php:111
+msgid "POS order"
+msgstr ""
+
+#: includes/Admin/Orders.php:111
+#: includes/API/Analytics/Orders.php:135
+msgid "Web order"
+msgstr ""
+
+#: includes/Admin/Orders.php:354
+msgid "POS Station:"
+msgstr ""
+
+#: includes/Admin/Orders.php:369
+msgid "Tax/VAT Number:"
+msgstr ""
+
+#: includes/Admin/Orders.php:414
+msgid "POS user:"
+msgstr ""
+
+#: includes/Admin/Orders.php:432
+msgid "POS User"
+msgstr ""
+
+#: includes/Admin/QuickStart.php:53
+msgid "Setup is almost complete, but one last step is still required."
+msgstr ""
+
+#: includes/Admin/QuickStart.php:63
+msgid "Quick start logo"
+msgstr ""
+
+#: includes/Admin/QuickStart.php:67
+msgid "Quick start hero"
+msgstr ""
+
+#: includes/Admin/QuickStart.php:72
+msgid "Meet Jovvie, Your New Point Of Sale"
+msgstr ""
+
+#: includes/Admin/QuickStart.php:75
+msgid "Jovvie POS was built to feel like a natural extension of WooCommerce and WordPress."
+msgstr ""
+
+#: includes/Admin/QuickStart.php:81
+msgid "By connecting your store, your products, customers, orders, inventory and settings will import automatically and communicate in real time to always stay up to date."
+msgstr ""
+
+#: includes/Admin/QuickStart.php:88
+msgid "Finish setup now. In less than 5 minutes, Jovvie will be ready to handle all aspects of your store’s in-person transactions."
+msgstr ""
+
+#: includes/Admin/QuickStart.php:96
+msgid "New? Claim Your Free Account ⟶"
+msgstr ""
+
+#: includes/Admin/QuickStart.php:100
+msgid "Connect Your Existing Account"
+msgstr ""
+
+#: includes/Admin/QuickStart.php:106
+msgid "Setup self-hosted connection"
+msgstr ""
+
+#: includes/Admin/Stations/Layout.php:83
+#: includes/Admin/Stations/Layout.php:86
+#: includes/Admin/Stations/Post.php:101
+msgid "Edit Station"
+msgstr ""
+
+#: includes/Admin/Stations/Layout.php:99
+#: includes/Admin/Stations/Layout.php:102
+#: includes/Admin/Stations/Post.php:107
+#: includes/Admin/Stations/Post.php:180
+msgid "View POS"
+msgstr ""
+
+#: includes/Admin/Stations/Layout.php:119
+msgid "Title"
+msgstr ""
+
+#: includes/Admin/Stations/Layout.php:120
+msgid "Actions"
+msgstr ""
+
+#: includes/Admin/Stations/Layout.php:170
+msgid "Save"
+msgstr ""
+
+#: includes/Admin/Stations/MyAccount.php:29
+#: includes/Admin/Stations/Post.php:97
+msgid "POS Stations"
+msgstr ""
+
+#: includes/Admin/Stations/Post.php:95
+#: includes/Admin/Stations/Post.php:98
+msgid "POS Station"
+msgstr ""
+
+#: includes/Admin/Stations/Post.php:99
+msgid "POS"
+msgstr ""
+
+#: includes/Admin/Stations/Post.php:100
+msgid "Search Stations"
+msgstr ""
+
+#: includes/Admin/Stations/Post.php:102
+#: includes/Admin/Stations/Post.php:103
+msgid "Add New Station"
+msgstr ""
+
+#: includes/Admin/Stations/Post.php:104
+#: includes/Admin/Stations/Post.php:105
+msgid "Station Created"
+msgstr ""
+
+#: includes/Admin/Stations/Post.php:106
+msgid "Station Updated"
+msgstr ""
+
+#: includes/Admin/Stations/Post.php:108
+#: includes/Admin/Stations/Post.php:109
+msgid "No Stations found"
+msgstr ""
+
+#: includes/Admin/Stations/Post.php:184
+#: includes/Admin/Stations/Post.php:185
+msgid "POS Station updated."
+msgstr ""
+
+#: includes/Admin/Stations/Post.php:186
+#: includes/Admin/Stations/Post.php:187
+#: includes/Admin/Stations/Post.php:188
+msgid "POS Station saved."
+msgstr ""
+
+#. translators: %s: Number of posts.
+#: includes/Admin/Stations/Post.php:196
+msgid "%s station updated."
+msgid_plural "%s stations updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: Number of posts.
+#: includes/Admin/Stations/Post.php:204
+msgid "1 station not updated, somebody is editing it."
+msgstr ""
+
+#: includes/Admin/Stations/Post.php:205
+msgid "%s station not updated, somebody is editing it."
+msgid_plural "%s stations not updated, somebody is editing them."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: Number of posts.
+#: includes/Admin/Stations/Post.php:212
+msgid "%s station permanently deleted."
+msgid_plural "%s stations permanently deleted."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: Number of posts.
+#: includes/Admin/Stations/Post.php:219
+msgid "%s station moved to the Trash."
+msgid_plural "%s stations moved to the Trash."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: Number of posts.
+#: includes/Admin/Stations/Post.php:226
+msgid "%s station restored from the Trash."
+msgid_plural "%s stations restored from the Trash."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/Admin/Stations/Tabs/Cart.php:22
+#: includes/Admin/Stations/Tabs/Cart.php:31
+msgid "Cart"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Cart.php:34
+msgid "Customer"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Cart.php:37
+msgid "All Customer Fields are Required to Add a Customer"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Cart.php:44
+msgid "Customer is Required to be Added to the Order for Checkout"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Cart.php:48
+msgid "Menu Display"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Cart.php:51
+msgid "Show the Cart menu expanded open by default"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Cart.php:56
+msgid "Points and Rewards"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Cart.php:59
+msgid "Enable Points and Rewards on Checkout"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Cart.php:64
+msgid "Order of displaying Points and Rewards"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Cart.php:67
+msgid "Display Points and Rewards after Tips"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Cart.php:72
+msgid "Point and Rewards behavior for guest customer"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Cart.php:78
+msgid "Skip displaying"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Cart.php:82
+msgid "Offer to select customer"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Cart.php:88
+msgid "Customer Tips"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Cart.php:91
+msgid "Enable Tip on Checkout"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Cart.php:94
+msgid "Gateway Transaction Fee"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Cart.php:97
+msgid "Enable Gateway Transaction Fee"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Cart.php:100
+msgid "Cart values of zero assigned order status"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Cart.php:106
+msgid "Sort products in cart by"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Cart.php:112
+msgid "Barcode Scanning Cart Action"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Cart.php:115
+msgid "Barcode scan automatically adds item to cart"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Cart.php:122
+msgid "Enable repeat Barcode scans functionality"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Cart.php:175
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Cart.php:179
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Cart.php:183
+msgid "Sort by items added to cart: newer is higher"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Cart.php:187
+msgid "Sort by items added to cart: older is higher"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/General.php:30
+msgid "General"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/General.php:50
+msgid "Notifications"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/General.php:62
+msgid "All Enabled"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/General.php:66
+msgid "Enable by Type"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/General.php:73
+msgid "Product notifications"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/General.php:77
+msgid "Cart notifications"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/General.php:81
+msgid "Customer notifications"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/General.php:90
+msgid "Top Bar Functions"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/General.php:98
+msgid "Expanded open for quick access to adding products, searching and barcode actions"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/General.php:105
+msgid "Closed for a single row top bar functionality"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/General.php:113
+msgid "Loading Behavior"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/General.php:121
+msgid "Background loading (Syncing will continue after the POS view loads)"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/General.php:128
+msgid "Complete loading (Syncing will complete prior to loading POS view)"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/General.php:139
+#: includes/Admin/Stations/Tabs/General.php:168
+msgid "POS Base Address"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/General.php:142
+msgid "Address line 1"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/General.php:147
+msgid "Address line 2"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/General.php:151
+msgid "City"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/General.php:153
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/General.php:158
+msgid "Country / State"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/General.php:173
+#: includes/Admin/Stations/Tabs/Products.php:390
+#: includes/Admin/Stations/Tabs/Tax.php:35
+#: includes/Admin/Stations/Tabs/Tax.php:105
+msgid "Station uses"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/General.php:175
+msgid "Shop Base Store Address Settings"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/General.php:186
+msgid "Delete Permanently"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/General.php:189
+msgid "!Important the action of deleting a POS Station can't be undone and all orders placed by the station will no longer open in the POS view"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/General.php:295
+msgid "All"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/General.php:300
+msgid "Only Errors"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/General.php:305
+msgid "Disable"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/General.php:385
+msgid "Stripe Connect Location for Terminal readers created"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/General.php:387
+msgid "Stripe Connect Location for Terminal readers updated"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/General.php:394
+msgid "Failed to create Stripe Connect Location for Terminal readers, error: %s"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/General.php:402
+msgid "Failed to update Stripe Connect Location for Terminal readers, error: %s"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:26
+#: includes/Frontend.php:273
+msgid "Products"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:33
+msgid "Inventory Management"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:36
+msgid "Inventory location"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:47
+msgid "Stock Management Functionality"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:53
+msgid "Reduce stock and not allow product to be added to cart"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:60
+msgid "Enabled only when Shop Base Inventory Management is active"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:71
+msgid "Hide out of stock products from POS product list"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:80
+msgid "Reduce stock but allow product to be added to cart for backorder"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:89
+msgid "Hold stock (minutes)"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:90
+msgid "Hold stock (for products placed in cart) for x minutes. When this limit is reached, the stock will be released. Leave blank to disable."
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:97
+#: includes/Frontend.php:311
+#: src/analytics/components/Table.jsx:24
+msgid "Coupons"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:103
+msgid "Enable Manual Coupons"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:110
+msgid "Add a Product"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:116
+msgid "Enable Add a Product Functionality"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:125
+msgid "Enable Save by Default"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:132
+msgid "Product Search Default"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:141
+msgid "Search mode"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:145
+msgid "Barcode mode"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:151
+msgid "Tiles"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:157
+msgid "Show Photo in Tile"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:160
+msgid "Note: Product and Category photo tile display may impact POS loading performance"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:169
+msgid "Tile Sorting"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:172
+msgid "Sort products in tabs by"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:179
+msgid "Tile Display"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:182
+msgid "Default Display Style"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:189
+msgid "Global Tile Styling"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:191
+msgid "Note: Custom style settings on specific Product or Categories will override Global Color Styling"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:197
+msgid "Product Tiles"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:201
+msgid "Product Name"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:209
+msgid "Product Sub Text"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:216
+msgid "Hide Sub Text"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:226
+msgid "Product Price"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:233
+msgid "Hide Product Price"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:243
+msgid "Out Of Stock Text"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:251
+#: includes/Admin/Woocommerce/Categories.php:116
+#: includes/Admin/Woocommerce/Products.php:424
+msgid "Tile background"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:255
+msgid "Category Tiles"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:259
+msgid "Category Name"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:267
+msgid "Category Count"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:275
+msgid "Tile Background"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:281
+msgid "Product Tabs"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:283
+msgid ""
+"Supported syntax for products to display in tabs: all, cat-list, cat:[category name], blank, onsale, featured, tag:[tag slug],\n"
+"\t\t\t\t\t\t att:[attribute name], type:[product type], product-id:[product id], taxable:[true | false], stock:[instock | outofstock | onbackorder].\n"
+"\t\t\t\t\t\t Can be combined with \", \" (e.g. [all, blank, cat-list]). Add [group] to group products as a single tile (e.g. featured[group]"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:364
+#: includes/Admin/Stations/Tabs/Products.php:391
+msgid "Shop Base Quantity"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:377
+msgid "Station location"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:400
+msgid "Sort by price: High to low"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:404
+msgid "Sort by price: Low to high"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:408
+msgid "Sort by A to Z"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:412
+msgid "Sort by Z to A"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:422
+msgid "Display products as Tiles"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Products.php:426
+msgid "Display products as List"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Tax.php:22
+msgid "Tax"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Tax.php:30
+#: includes/Admin/Stations/Tabs/Tax.php:43
+#: includes/Admin/Stations/Tabs/Tax.php:46
+msgid "Tax Options"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Tax.php:37
+#: includes/Admin/Stations/Tabs/Tax.php:107
+msgid "Shop Base Store Tax Settings"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Tax.php:39
+msgid "Tax Calculation"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Tax.php:59
+msgid "Enable Tax/VAT ID Type Settings"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Tax.php:62
+msgid "Tax/VAT ID Behavior"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Tax.php:72
+msgid "Display prices in the POS"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Tax.php:78
+msgid "Display prices during POS cart"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Tax.php:91
+msgid "Calculate Tax Based on"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Tax.php:176
+msgid "Enabled (using Shop Base configurations)"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Tax.php:180
+msgid "Disabled"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Tax.php:188
+msgid "Including tax"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Tax.php:189
+msgid "Excluding tax"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Tax.php:196
+msgid "POS Station Base Address"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Tax.php:197
+msgid "Default Shop Base"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Tax.php:198
+msgid "Customer Shipping Address"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Tax.php:199
+msgid "Customer Billing Address"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Tax.php:206
+msgid "Tax/VAT not allowed to be removed"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Tax.php:209
+msgid "Allow Tax/VAT removed manually"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Tax.php:211
+msgid "Remove automatically Tax/VAT"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Tax.php:214
+msgid "Remove automatically if Customer has Tax/VAT ID"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Tax.php:218
+msgid "Remove automatically if Order has Tax/VAT ID"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Tax.php:222
+msgid "Remove automatically if Customer and Order has Tax/VAT ID"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/TerminalReaders.php:27
+msgid "Terminal Readers"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/TerminalReaders.php:47
+msgid "Location ID"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/TerminalReaders.php:48
+msgid "Registered readers"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/TerminalReaders.php:52
+msgid "Register new reader"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/TerminalReaders.php:70
+msgid "No location ID found. Please update your address to register terminal readers."
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/TerminalReaders.php:78
+msgid "Current live mode ID: %s"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/TerminalReaders.php:84
+msgid "Current test mode ID: %s"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/TerminalReaders.php:94
+msgid "Error getting location ID"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Users/AutoLogout.php:15
+msgid "User Auto Logout Action"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Users/AutoLogout.php:61
+msgid "Disable auto logout"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Users/AutoLogout.php:62
+msgid "Auto logout in 5 mins"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Users/AutoLogout.php:63
+msgid "Auto logout in 15 mins"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Users/AutoLogout.php:64
+msgid "Auto logout in 30 mins"
+msgstr ""
+
+#: includes/Admin/Stations/Tabs/Users/AutoLogout.php:65
+msgid "Auto logout in 60 mins"
+msgstr ""
+
+#: includes/Admin/Tabs/Addons.php:19
+msgid "Add-ons"
+msgstr ""
+
+#: includes/Admin/Tabs/Addons.php:28
+msgid "Plugins"
+msgstr ""
+
+#: includes/Admin/Tabs/Addons.php:32
+msgid "Pro Plugin"
+msgstr ""
+
+#: includes/Admin/Tabs/Addons.php:37
+msgid "Plugins by Other Developers"
+msgstr ""
+
+#: includes/Admin/Tabs/Addons.php:49
+msgid "Order Hours"
+msgstr ""
+
+#: includes/Admin/Tabs/Addons.php:51
+msgid "Add the ability to configure the WooCommerce store hours toggling the ability to block customers during checkout from an online and offline mode."
+msgstr ""
+
+#: includes/Admin/Tabs/Addons.php:60
+msgid "Product Add-ons"
+msgstr ""
+
+#: includes/Admin/Tabs/Addons.php:62
+msgid "Enable the ability to add product add-ons and modifiers to each product listing"
+msgstr ""
+
+#: includes/Admin/Tabs/Addons.php:71
+msgid "POS Print for Google Cloud Print"
+msgstr ""
+
+#: includes/Admin/Tabs/Addons.php:73
+msgid "Enable remote printing to multiple printers using Google Cloud Print technology"
+msgstr ""
+
+#: includes/Admin/Tabs/Addons.php:118
+msgid "Multiple Users Assignments"
+msgstr ""
+
+#: includes/Admin/Tabs/Addons.php:120
+msgid "Buy Multiple Users Assignments for the POS"
+msgstr ""
+
+#: includes/Admin/Tabs/Addons.php:128
+msgid "WC Payment Gateway"
+msgstr ""
+
+#: includes/Admin/Tabs/Addons.php:130
+msgid "Add WooCommerce payment gateway support to POS"
+msgstr ""
+
+#: includes/Admin/Tabs/Addons.php:152
+msgid "Payment Gateway Stripe"
+msgstr ""
+
+#: includes/Admin/Tabs/Addons.php:154
+msgid "POS support for Stripe payment processing"
+msgstr ""
+
+#: includes/Admin/Tabs/Connection.php:24
+#: includes/Admin/Tabs/Connection.php:70
+msgid "Connection"
+msgstr ""
+
+#: includes/Admin/Tabs/Connection.php:51
+msgid "Cloud Connection"
+msgstr ""
+
+#: includes/Admin/Tabs/Connection.php:53
+msgid "Cloud"
+msgstr ""
+
+#: includes/Admin/Tabs/Connection.php:55
+msgid "POS hosted on BizSwoop servers"
+msgstr ""
+
+#: includes/Admin/Tabs/Connection.php:64
+#: includes/Admin/Tabs/StripeConnect.php:89
+msgid "Connected"
+msgstr ""
+
+#: includes/Admin/Tabs/Connection.php:65
+msgid "Not Connected"
+msgstr ""
+
+#: includes/Admin/Tabs/Connection.php:73
+msgid "Manage"
+msgstr ""
+
+#: includes/Admin/Tabs/Connection.php:81
+#: includes/Frontend.php:318
+msgid "Dashboard"
+msgstr ""
+
+#: includes/Admin/Tabs/Connection.php:84
+msgid "Open"
+msgstr ""
+
+#: includes/Admin/Tabs/Connection.php:89
+msgid "Documentation"
+msgstr ""
+
+#: includes/Admin/Tabs/Connection.php:92
+msgid "View"
+msgstr ""
+
+#: includes/Admin/Tabs/Connection.php:97
+msgid "Quick Start Guide"
+msgstr ""
+
+#: includes/Admin/Tabs/Connection.php:100
+msgid "Launch"
+msgstr ""
+
+#: includes/Admin/Tabs/Connection.php:107
+msgid "Self-Hosted Connection"
+msgstr ""
+
+#: includes/Admin/Tabs/Connection.php:109
+msgid "Self-Hosted Server"
+msgstr ""
+
+#: includes/Admin/Tabs/Connection.php:111
+msgid "POS hosted on your WordPress website server."
+msgstr ""
+
+#: includes/Admin/Tabs/Connection.php:120
+#: src/admin/components/Setting/PluginWidgets/Addon/index.jsx:11
+msgid "Active"
+msgstr ""
+
+#: includes/Admin/Tabs/Connection.php:121
+msgid "Not Active"
+msgstr ""
+
+#: includes/Admin/Tabs/Debug.php:23
+msgid "Uninstall options"
+msgstr ""
+
+#: includes/Admin/Tabs/Debug.php:27
+msgid "Delete Data and Reset"
+msgstr ""
+
+#: includes/Admin/Tabs/Debug.php:30
+msgid "Yes, when the plugin is uninstalled. Delete data and reset"
+msgstr ""
+
+#: includes/Admin/Tabs/Debug.php:34
+msgid "Debug"
+msgstr ""
+
+#: includes/Admin/Tabs/Debug.php:41
+msgid "Enable developer mode for debugging"
+msgstr ""
+
+#: includes/Admin/Tabs/Gateway.php:41
+msgid "Payment Gateways"
+msgstr ""
+
+#: includes/Admin/Tabs/Gateway.php:42
+msgid "Installed gateways are listed below. Drag and drop gateways to control their display order on the Point of Sale."
+msgstr ""
+
+#: includes/Admin/Tabs/Gateway.php:51
+msgid "Native Gateway Support"
+msgstr ""
+
+#: includes/Admin/Tabs/Gateway.php:52
+msgid "Payment Gateways enabled will be available for the Point of Sale."
+msgstr ""
+
+#: includes/Admin/Tabs/Gateway.php:61
+msgid "Expand Payment Gateway Support with"
+msgstr ""
+
+#: includes/Admin/Tabs/Gateway.php:62
+msgid "Pay by Woo bridge"
+msgstr ""
+
+#: includes/Admin/Tabs/Gateway.php:64
+#: includes/Admin/Tabs/Users/Multiple.php:25
+msgid "Learn More"
+msgstr ""
+
+#: includes/Admin/Tabs/General.php:24
+msgid "Loading Screen Logo"
+msgstr ""
+
+#: includes/Admin/Tabs/General.php:27
+msgid "Sync Behavior"
+msgstr ""
+
+#: includes/Admin/Tabs/General.php:30
+msgid "Define Number of products syncing per request. Optimize based upon server performance"
+msgstr ""
+
+#: includes/Admin/Tabs/General.php:40
+msgid "Product Sync on initial load"
+msgstr ""
+
+#: includes/Admin/Tabs/General.php:41
+#: includes/Admin/Tabs/General.php:52
+msgid "per request (Maximum: 100)"
+msgstr ""
+
+#: includes/Admin/Tabs/General.php:51
+msgid "Product Sync on background"
+msgstr ""
+
+#: includes/Admin/Tabs/StripeConnect.php:38
+msgid "Connect your Stripe account to accept payments in the Point of Sale."
+msgstr ""
+
+#: includes/Admin/Tabs/StripeConnect.php:43
+msgid "Public Key"
+msgstr ""
+
+#: includes/Admin/Tabs/StripeConnect.php:47
+msgid "Secret Key"
+msgstr ""
+
+#: includes/Admin/Tabs/StripeConnect.php:52
+msgid "Mode"
+msgstr ""
+
+#: includes/Admin/Tabs/StripeConnect.php:56
+msgid "Live"
+msgstr ""
+
+#: includes/Admin/Tabs/StripeConnect.php:57
+msgid "Test"
+msgstr ""
+
+#: includes/Admin/Tabs/StripeConnect.php:61
+msgid "Add and update locations for terminal readers in each POS Station."
+msgstr ""
+
+#: includes/Admin/Tabs/StripeConnect.php:66
+msgid "Host"
+msgstr ""
+
+#: includes/Admin/Tabs/StripeConnect.php:75
+msgid "Stripe Terminal"
+msgstr ""
+
+#: includes/Admin/Tabs/StripeConnect.php:77
+msgid "Link Jovvie with your Stripe account for seamless payment processing."
+msgstr ""
+
+#: includes/Admin/Tabs/StripeConnect.php:90
+msgid "Disconnected"
+msgstr ""
+
+#: includes/Admin/Tabs/StripeConnect.php:92
+msgid "Stripe Account"
+msgstr ""
+
+#: includes/Admin/Tabs/StripeConnect.php:94
+msgid "Link Account"
+msgstr ""
+
+#: includes/Admin/Tabs/Users/Access.php:45
+msgid "Configure User Role Access Permissions"
+msgstr ""
+
+#: includes/Admin/Tabs/Users/Multiple.php:15
+msgid "Manage Multiple Users Access to Stations"
+msgstr ""
+
+#: includes/Admin/Tabs/Users/UserSettings.php:16
+msgid "Manage User Access to Stations"
+msgstr ""
+
+#: includes/Admin/Tabs/Users/UserSettings.php:23
+msgid "Cashier Role"
+msgstr ""
+
+#: includes/Admin/Tabs/Users/UserSettings.php:29
+msgid "Manager Role"
+msgstr ""
+
+#: includes/Admin/Woocommerce/Categories.php:28
+#: includes/Admin/Woocommerce/Categories.php:38
+msgid "POS category tile"
+msgstr ""
+
+#: includes/Admin/Woocommerce/Categories.php:100
+#: includes/Admin/Woocommerce/Products.php:385
+msgid "Override Global Color Styling"
+msgstr ""
+
+#: includes/Admin/Woocommerce/Categories.php:106
+msgid "Category name"
+msgstr ""
+
+#: includes/Admin/Woocommerce/Categories.php:111
+msgid "Category count"
+msgstr ""
+
+#: includes/Admin/Woocommerce/PointsRewards.php:137
+msgid "%1$d %2$s were credited back as the discount was cancelled."
+msgstr ""
+
+#: includes/Admin/Woocommerce/Products.php:82
+msgid "Shop, POS and search result"
+msgstr ""
+
+#: includes/Admin/Woocommerce/Products.php:86
+msgid "POS only"
+msgstr ""
+
+#: includes/Admin/Woocommerce/Products.php:155
+msgid "Barcode"
+msgstr ""
+
+#: includes/Admin/Woocommerce/Products.php:162
+msgid "Barcode secondary"
+msgstr ""
+
+#: includes/Admin/Woocommerce/Products.php:169
+msgid "Barcode alternative"
+msgstr ""
+
+#: includes/Admin/Woocommerce/Products.php:190
+msgid "The barcode refers to numbers and letters assigned to products as a means of identification by the POS using a barcode reader."
+msgstr ""
+
+#: includes/Admin/Woocommerce/Products.php:391
+msgid "Product name"
+msgstr ""
+
+#: includes/Admin/Woocommerce/Products.php:396
+msgid "Product sub text"
+msgstr ""
+
+#: includes/Admin/Woocommerce/Products.php:399
+msgid "Variation/Inventory counts"
+msgstr ""
+
+#: includes/Admin/Woocommerce/Products.php:402
+msgid "Hide sub text"
+msgstr ""
+
+#: includes/Admin/Woocommerce/Products.php:408
+msgid "Product price"
+msgstr ""
+
+#: includes/Admin/Woocommerce/Products.php:413
+msgid "Hide product price"
+msgstr ""
+
+#: includes/Admin/Woocommerce/Products.php:419
+msgid "Out of stock text"
+msgstr ""
+
+#: includes/API.php:106
+#: includes/Frontend.php:128
+msgid "Change your User Assignments to access the POS system."
+msgstr ""
+
+#: includes/API.php:107
+msgid "User Assignments Error"
+msgstr ""
+
+#: includes/API.php:111
+#: includes/Frontend.php:132
+msgid "Go to User Assignment Settings"
+msgstr ""
+
+#: includes/API.php:133
+msgid "Current user does not exist."
+msgstr ""
+
+#: includes/API/Analytics/Orders.php:146
+msgid "Deleted station"
+msgstr ""
+
+#: includes/API/Applications.php:403
+msgid "Shop base"
+msgstr ""
+
+#: includes/API/Auth.php:52
+#: includes/API/UserAccounts.php:78
+msgid "Error: Missing parameter %s"
+msgstr ""
+
+#: includes/API/Auth.php:59
+msgid "Error: Invalid user_email"
+msgstr ""
+
+#: includes/API/Auth.php:70
+msgid "Error: Invalid consumer_key"
+msgstr ""
+
+#: includes/API/Auth.php:80
+msgid "Error: %s requires read_write permission"
+msgstr ""
+
+#: includes/API/Auth.php:89
+msgid "Error: Invalid key owner"
+msgstr ""
+
+#: includes/API/Auth.php:100
+msgid "Error: Key owner does not have the necessary permissions"
+msgstr ""
+
+#: includes/API/Auth.php:154
+msgid "Error: Key owner does not have a login"
+msgstr ""
+
+#: includes/API/Auth.php:179
+msgid "Error: %s user does not have a login"
+msgstr ""
+
+#: includes/API/Auth.php:209
+#: includes/API/UserAccounts.php:106
+msgid "User from the %s"
+msgstr ""
+
+#: includes/API/Auth.php:215
+#: includes/API/UserAccounts.php:112
+msgid "Error: %s"
+msgstr ""
+
+#: includes/API/Orders.php:544
+msgid "Guest"
+msgstr ""
+
+#: includes/API/UserAccounts.php:85
+msgid "Error: Invalid first_name"
+msgstr ""
+
+#: includes/API/UserAccounts.php:93
+msgid "Error: This role is not allowed"
+msgstr ""
+
+#: includes/Auth.php:43
+msgid "App logo"
+msgstr ""
+
+#: includes/Frontend.php:47
+msgid "Oops. You do not have permissions to access this station"
+msgstr ""
+
+#: includes/Frontend.php:49
+msgid "Go to POS Stations Dashboard"
+msgstr ""
+
+#: includes/Frontend.php:280
+msgid "Orders"
+msgstr ""
+
+#: includes/Frontend.php:287
+msgctxt "Order hours plugin"
+msgid "Hours"
+msgstr ""
+
+#: includes/Frontend.php:294
+msgid "Reports"
+msgstr ""
+
+#: includes/Frontend.php:303
+msgid "Customers"
+msgstr ""
+
+#: includes/Gateway/Cash.php:60
+#: includes/Gateway/Cash.php:67
+#: includes/Gateway/Cash.php:137
+msgid "Amount Tendered"
+msgstr ""
+
+#: includes/Gateway/Cash.php:139
+msgctxt "Money returned from cash sale"
+msgid "Change"
+msgstr ""
+
+#: includes/Gateway/SplitPayment.php:87
+msgid "Oops! The amount does not match."
+msgstr ""
+
+#: includes/Gateway/SplitPayment.php:187
+msgid "Oops! Payment method %s has failed processing."
+msgstr ""
+
+#: includes/Gateway/SplitPayment.php:188
+msgid "Oops! Following payment methods have failed processing: %s."
+msgstr ""
+
+#: includes/Gateway/SplitPayment.php:206
+msgid "Oops! Something went wrong."
+msgstr ""
+
+#: includes/Gateway/Stripe.php:166
+msgid "POS Stripe charge complete (Charge ID: %s)"
+msgstr ""
+
+#: includes/Model/VatControl.php:27
+msgid "Select..."
+msgstr ""
+
+#: includes/Model/VatControl.php:92
+msgid "Tax/VAT ID Type"
+msgstr ""
+
+#: includes/Setup.php:44
+msgid "Point of Sale (POS) for WooCommerce require WooCommerce"
+msgstr ""
+
+#: includes/Setup.php:52
+msgid "Jovvie Legacy Stripe Terminal plugin is no longer supported. Connect your Stripe account to continue processing payments with terminal. <a href=\"%s\">[Connect Now]</a>"
+msgstr ""
+
+#: src/admin/components/Setting/PluginWidgets/Addon/index.jsx:14
+#: src/admin/components/Setting/PluginWidgets/Addon/index.jsx:18
+msgid "Enable"
+msgstr ""
+
+#: src/admin/components/Setting/PluginWidgets/Addon/index.jsx:23
+msgid "Install"
+msgstr ""
+
+#: src/admin/components/Setting/PluginWidgets/Addon/index.jsx:61
+msgid "More Info"
+msgstr ""
+
+#: src/analytics/components/Table.jsx:10
+msgid "Date"
+msgstr ""
+
+#: src/analytics/components/Table.jsx:13
+msgid "Order #"
+msgstr ""
+
+#: src/analytics/components/Table.jsx:18
+msgid "Status"
+msgstr ""
+
+#: src/analytics/components/Table.jsx:19
+msgid "Gross sales"
+msgstr ""
+
+#: src/analytics/components/Table.jsx:20
+msgid "Net sales"
+msgstr ""
+
+#: src/analytics/components/Table.jsx:21
+msgid "Items"
+msgstr ""
+
+#: src/analytics/components/Table.jsx:22
+msgid "Refunds"
+msgstr ""
+
+#: src/analytics/components/Table.jsx:23
+msgid "Shipping"
+msgstr ""
+
+#: src/analytics/components/Table.jsx:31
+#: src/analytics/reports/Station.jsx:159
+msgid "Station"
+msgstr ""
+
+#: src/analytics/components/Table.jsx:40
+#: src/analytics/reports/User.jsx:161
+msgid "User"
+msgstr ""
+
+#: src/analytics/components/Table.jsx:139
+#: src/analytics/helpers/calculation.js:167
+msgid "Previous period"
+msgstr ""
+
+#: src/analytics/components/Table.jsx:140
+#: src/analytics/helpers/calculation.js:163
+msgid "Current period"
+msgstr ""
+
+#: src/analytics/helpers/calculation.js:79
+msgid "Payments via"
+msgstr ""
+
+#: src/analytics/index.js:31
+msgid "Online orders"
+msgstr ""
+
+#: src/analytics/index.js:35
+msgid "POS orders"
+msgstr ""
+
+#: src/analytics/reports/Gateway.jsx:31
+msgid "Payment Orders"
+msgstr ""
+
+#: src/analytics/reports/Gateway.jsx:154
+msgid "Payment type"
+msgstr ""
+
+#: src/analytics/reports/Gateway.jsx:198
+#: src/analytics/reports/Station.jsx:203
+#: src/analytics/reports/User.jsx:205
+msgid "Gross sales in this period"
+msgstr ""
+
+#: src/analytics/reports/Gateway.jsx:209
+#: src/analytics/reports/Station.jsx:214
+#: src/analytics/reports/User.jsx:216
+msgid "Average gross daily sales"
+msgstr ""
+
+#: src/analytics/reports/Gateway.jsx:216
+#: src/analytics/reports/Station.jsx:221
+#: src/analytics/reports/User.jsx:223
+msgid "Net sales in this period"
+msgstr ""
+
+#: src/analytics/reports/Gateway.jsx:227
+#: src/analytics/reports/Station.jsx:232
+#: src/analytics/reports/User.jsx:234
+msgid "Average net daily sales"
+msgstr ""
+
+#: src/analytics/reports/Gateway.jsx:234
+#: src/analytics/reports/Station.jsx:239
+#: src/analytics/reports/User.jsx:241
+msgid "Orders placed"
+msgstr ""
+
+#: src/analytics/reports/Gateway.jsx:245
+#: src/analytics/reports/Station.jsx:250
+#: src/analytics/reports/User.jsx:252
+msgid "Items purchased"
+msgstr ""
+
+#: src/analytics/reports/Gateway.jsx:258
+#: src/analytics/reports/Station.jsx:263
+#: src/analytics/reports/User.jsx:265
+msgid "Refunded %1$s orders (-%2$s items)"
+msgstr ""
+
+#: src/analytics/reports/Gateway.jsx:272
+#: src/analytics/reports/Station.jsx:277
+#: src/analytics/reports/User.jsx:279
+msgid "Charged for shipping"
+msgstr ""
+
+#: src/analytics/reports/Gateway.jsx:283
+#: src/analytics/reports/Station.jsx:288
+#: src/analytics/reports/User.jsx:290
+msgid "Worth of coupons used"
+msgstr ""
+
+#: src/analytics/reports/Station.jsx:34
+msgid "All stations"
+msgstr ""
+
+#: src/analytics/reports/Station.jsx:39
+msgid "Station Orders"
+msgstr ""
+
+#: src/analytics/reports/User.jsx:34
+msgid "All users"
+msgstr ""
